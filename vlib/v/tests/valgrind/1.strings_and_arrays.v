@@ -134,7 +134,10 @@ fn main() {
 	match_expr()
 	reassign_str()
 	optional_str()
+<<<<<<< HEAD
 	optional_return()
+=======
+>>>>>>> 6f5f48d6... autofree: wrap up optionals
 	// str_replace()
 	println('end')
 }
